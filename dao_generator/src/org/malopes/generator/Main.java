@@ -11,6 +11,8 @@ import org.malopes.generator.fases.AnalisadorSintaticoGA;
 import org.malopes.generator.fases.GeradorCodigo;
 
 public class Main {
+	
+	//teste
 
 	private Boolean DEBUG = true;
 	private Boolean COMPILER = true;
